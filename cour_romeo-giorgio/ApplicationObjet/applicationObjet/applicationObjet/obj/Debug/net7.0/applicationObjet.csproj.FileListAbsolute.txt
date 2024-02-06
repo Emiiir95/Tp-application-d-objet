@@ -1,0 +1,15 @@
+/Users/emirsen/esiee-it/cour_romeo-giorgio/ApplicationObjet/applicationObjet/applicationObjet/obj/Debug/net7.0/applicationObjet.csproj.AssemblyReference.cache
+/Users/emirsen/esiee-it/cour_romeo-giorgio/ApplicationObjet/applicationObjet/applicationObjet/obj/Debug/net7.0/applicationObjet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emirsen/esiee-it/cour_romeo-giorgio/ApplicationObjet/applicationObjet/applicationObjet/obj/Debug/net7.0/applicationObjet.AssemblyInfoInputs.cache
+/Users/emirsen/esiee-it/cour_romeo-giorgio/ApplicationObjet/applicationObjet/applicationObjet/obj/Debug/net7.0/applicationObjet.AssemblyInfo.cs
+/Users/emirsen/esiee-it/cour_romeo-giorgio/ApplicationObjet/applicationObjet/applicationObjet/obj/Debug/net7.0/applicationObjet.csproj.CoreCompileInputs.cache
+/Users/emirsen/esiee-it/cour_romeo-giorgio/ApplicationObjet/applicationObjet/applicationObjet/bin/Debug/net7.0/applicationObjet
+/Users/emirsen/esiee-it/cour_romeo-giorgio/ApplicationObjet/applicationObjet/applicationObjet/bin/Debug/net7.0/applicationObjet.deps.json
+/Users/emirsen/esiee-it/cour_romeo-giorgio/ApplicationObjet/applicationObjet/applicationObjet/bin/Debug/net7.0/applicationObjet.runtimeconfig.json
+/Users/emirsen/esiee-it/cour_romeo-giorgio/ApplicationObjet/applicationObjet/applicationObjet/bin/Debug/net7.0/applicationObjet.dll
+/Users/emirsen/esiee-it/cour_romeo-giorgio/ApplicationObjet/applicationObjet/applicationObjet/bin/Debug/net7.0/applicationObjet.pdb
+/Users/emirsen/esiee-it/cour_romeo-giorgio/ApplicationObjet/applicationObjet/applicationObjet/obj/Debug/net7.0/applicationObjet.dll
+/Users/emirsen/esiee-it/cour_romeo-giorgio/ApplicationObjet/applicationObjet/applicationObjet/obj/Debug/net7.0/refint/applicationObjet.dll
+/Users/emirsen/esiee-it/cour_romeo-giorgio/ApplicationObjet/applicationObjet/applicationObjet/obj/Debug/net7.0/applicationObjet.pdb
+/Users/emirsen/esiee-it/cour_romeo-giorgio/ApplicationObjet/applicationObjet/applicationObjet/obj/Debug/net7.0/applicationObjet.genruntimeconfig.cache
+/Users/emirsen/esiee-it/cour_romeo-giorgio/ApplicationObjet/applicationObjet/applicationObjet/obj/Debug/net7.0/ref/applicationObjet.dll
