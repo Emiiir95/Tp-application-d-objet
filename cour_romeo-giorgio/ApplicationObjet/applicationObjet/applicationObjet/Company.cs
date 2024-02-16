@@ -1,11 +1,13 @@
 ﻿using System;
+using System.Numerics;
+
 namespace applicationObjet
 {
 	public class Company
 	{
         private string siret;
         private string name;
-        private List<Contact> contact = new List<Contact>();
+        private List<Company> company = new List<Company>();
 
         public string Siret
         {
@@ -19,7 +21,11 @@ namespace applicationObjet
             set { name = value; }
         }
 
-        public Company() { }
+        public Company(string siret, string name)
+        {
+            this.siret = siret;
+            this.name = name;
+        }
     }
 }
 

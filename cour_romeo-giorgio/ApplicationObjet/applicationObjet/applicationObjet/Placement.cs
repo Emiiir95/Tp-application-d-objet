@@ -6,6 +6,9 @@ namespace applicationObjet
         private string hall;
         private int parcel ;
         private int surface;
+        private List<Placement> placement = new List<Placement>();
+
+        //public Company Company { get; set; }
 
         public string Hall
         {
@@ -16,16 +19,31 @@ namespace applicationObjet
         public int Parcel
         {
             get { return parcel; }
-            set { parcel = value; }
+            set {
+                if (value < 0)
+
+                    throw new ArgumentException("La parcelle ne peut pas être négative.");
+                parcel = value;
+            }
         }
 
         public int Surface
         {
             get { return surface; }
-            set { surface = value; }
+            set
+            {
+                if (value <= 0)
+                    throw new ArgumentException("La surface ne peut pas être négative.");
+                surface = value;
+            }
         }
 
-        public Placement() { }
+        public Placement(string hall, int parcel, int surface)
+        {
+            this.hall = hall;
+            Parcel = parcel;
+            Surface = surface;
+        }
     }
 }
 

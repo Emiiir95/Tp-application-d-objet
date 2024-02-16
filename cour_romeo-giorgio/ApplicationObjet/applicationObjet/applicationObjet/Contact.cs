@@ -5,6 +5,10 @@ namespace applicationObjet
 	{
         private string name;
         private string phone;
+        private List<Placement> placement = new List<Placement>();
+
+        public Company Company { get; set; }
+
 
         public string Name
         {
