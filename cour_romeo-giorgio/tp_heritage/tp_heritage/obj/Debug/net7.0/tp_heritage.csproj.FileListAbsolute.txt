@@ -1,0 +1,15 @@
+/Users/emirsen/esiee-it/cour_romeo-giorgio/tp_heritage/tp_heritage/obj/Debug/net7.0/tp_heritage.csproj.AssemblyReference.cache
+/Users/emirsen/esiee-it/cour_romeo-giorgio/tp_heritage/tp_heritage/obj/Debug/net7.0/tp_heritage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emirsen/esiee-it/cour_romeo-giorgio/tp_heritage/tp_heritage/obj/Debug/net7.0/tp_heritage.AssemblyInfoInputs.cache
+/Users/emirsen/esiee-it/cour_romeo-giorgio/tp_heritage/tp_heritage/obj/Debug/net7.0/tp_heritage.AssemblyInfo.cs
+/Users/emirsen/esiee-it/cour_romeo-giorgio/tp_heritage/tp_heritage/obj/Debug/net7.0/tp_heritage.csproj.CoreCompileInputs.cache
+/Users/emirsen/esiee-it/cour_romeo-giorgio/tp_heritage/tp_heritage/bin/Debug/net7.0/tp_heritage
+/Users/emirsen/esiee-it/cour_romeo-giorgio/tp_heritage/tp_heritage/bin/Debug/net7.0/tp_heritage.deps.json
+/Users/emirsen/esiee-it/cour_romeo-giorgio/tp_heritage/tp_heritage/bin/Debug/net7.0/tp_heritage.runtimeconfig.json
+/Users/emirsen/esiee-it/cour_romeo-giorgio/tp_heritage/tp_heritage/bin/Debug/net7.0/tp_heritage.dll
+/Users/emirsen/esiee-it/cour_romeo-giorgio/tp_heritage/tp_heritage/bin/Debug/net7.0/tp_heritage.pdb
+/Users/emirsen/esiee-it/cour_romeo-giorgio/tp_heritage/tp_heritage/obj/Debug/net7.0/tp_heritage.dll
+/Users/emirsen/esiee-it/cour_romeo-giorgio/tp_heritage/tp_heritage/obj/Debug/net7.0/refint/tp_heritage.dll
+/Users/emirsen/esiee-it/cour_romeo-giorgio/tp_heritage/tp_heritage/obj/Debug/net7.0/tp_heritage.pdb
+/Users/emirsen/esiee-it/cour_romeo-giorgio/tp_heritage/tp_heritage/obj/Debug/net7.0/tp_heritage.genruntimeconfig.cache
+/Users/emirsen/esiee-it/cour_romeo-giorgio/tp_heritage/tp_heritage/obj/Debug/net7.0/ref/tp_heritage.dll

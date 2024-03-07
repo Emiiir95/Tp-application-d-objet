@@ -59,9 +59,9 @@ internal class Program
 
         void displayExposant()
         {
-            foreach (var cmpagny in company)
+            foreach (var compagny in company)
             {
-                Console.WriteLine($"Entreprise : {cmpagny.Name}, SIRET : {cmpagny.Siret}");
+                Console.WriteLine($"Entreprise : {compagny.Name}, SIRET : {compagny.Siret}");
                 foreach (var emplacement in placement)
                 {
                     Console.WriteLine($"Emplacement : Hall {emplacement.Hall}, Parcelle {emplacement.Parcel}, Surface {emplacement.Surface}m^2");

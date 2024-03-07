@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{B15C3C8B-F4B5-485E-B5D9-7576CE7F71B8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="tp_heritage/Animal.cs">
+    <Files>
+      <File FileName="tp_heritage/Program.cs" Line="19" Column="2" />
+      <File FileName="tp_heritage/Animal.cs" Line="59" Column="10" />
+      <File FileName="tp_heritage/Oiseau.cs" Line="6" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="tp_heritage" expanded="True">
+            <Node name="tp_heritage">
+              <Node name="Animal.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.tp__heritage PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
