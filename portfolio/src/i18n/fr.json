@@ -1,0 +1,44 @@
+{
+  "app": {
+    "name": "App",
+    "backToHome": "Retour à l'accueil"
+  },
+  "form": {
+    "email": "Email",
+    "password": "Mot de passe",
+    "confirmPassword": "Répéter le mot de passe",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "companyName": "Société",
+    "campaign": "Campagne",
+    "update": "Mettre à jour"
+  },
+  "authentication": {
+    "sidebar": {
+      "register": "Nouveau sur HQ App ? Créez un compte en 2 minutes chrono.",
+      "login": "Authentifiez-vous à votre compte HQ App.",
+      "selectCompany": "Sélectionnez votre entreprise.",
+      "validateEmail": "Validez votre compte.",
+      "tagline": "Fatigué de synchroniser vos différentes applications de facturations ? HQ va vous aider à synchroniser les données automatiquement en temps réel."
+    },
+    "connect": "Se connecter via {{plugin}}",
+    "logout": "Déconnexion",
+    "login": "Se connecter",
+    "signup": "S'inscrire",
+    "rememberMe": "Se rappeler de moi",
+    "forgotPassword": "Mot de passe oublié ?",
+    "askResetPassword": "Demander un mot de passe",
+    "newUser": "Nouveau sur HQ Plugins?",
+    "createAccount": "Créer un compte",
+    "hasAccount": "Vous avez déjà un compte ?",
+    "selectCompany": "Sélectionnez votre entreprise",
+    "backToAuthentication": "Retour a l'authentification",
+    "signupValidation": {
+      "checkMail": "Nous venons de vous envoyer un email afin de valider votre compte.",
+      "finalize": "Cliquez sur le lien dans l'email afin de finaliser votre inscription.",
+      "loading": "Merci de patienter, nous validons votre compte...",
+      "success": "Votre compte a été validé avec succès.",
+      "error": "Une erreur est survenue lors de la validation de votre compte. Merci de contacter le support."
+    }
+  }
+}

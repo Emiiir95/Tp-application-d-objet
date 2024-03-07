@@ -1,0 +1,121 @@
+{
+  "app": {
+    "name": "App",
+    "backToHome": "Back to home"
+  },
+  "form": {
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm password",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "companyName": "Company name",
+    "campaign": "Campaign",
+    "update": "Update"
+  },
+  "authentication": {
+    "sidebar": {
+      "register": "New on the app ? Create an account in 2 minutes.",
+      "login": "Login to your HQ App account.",
+      "selectCompany": "Select your company.",
+      "validateEmail": "Validate your account.",
+      "tagline": "Tired of having to manually synchronize your apps ? HQ will help you to synchronize your apps in real time."
+    },
+    "connect": "Connect with {{plugin}}",
+    "logout": "Logout",
+    "login": "Login",
+    "loginDescription": "Login",
+    "signup": "Signup",
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot password?",
+    "askResetPassword": "Request password reset",
+    "newUser": "New to HQPlugins?",
+    "createAccount": "Create an account",
+    "hasAccount": "Already have an account?",
+    "selectCompany": "Select your company",
+    "backToAuthentication": "Back to authentication",
+    "signupValidation": {
+      "checkMail": "We just sent you an email to validate your account.",
+      "finalize": "Click on the link in the email to finalize your registration.",
+      "loading": "Please be patient, we are validating your account...",
+      "success": "Your account has been successfully validated.",
+      "error": "An error occurred while validating your account. Please contact support."
+    }
+  },
+  "bridge": {
+    "myBridges": "Your bridges",
+    "configure": "Configure bridge",
+    "create": "Create a bridge",
+    "continue": "Continue bridge creation",
+    "delete": "Delete bridge",
+    "activate": "Activate",
+    "deactivate": "Deactivate",
+    "startSynchronisation": "To start the transfer between the plugins, activate the synchronization with the button below.",
+    "stopSynchronisation": "The transfer between the plugins is active. If you want to pause the transfer, disable the synchronization with the button below.",
+    "list": {
+      "draft": "Draft",
+      "active": "Active",
+      "inactive": "Inactive",
+      "new": "New",
+      "noActive": "No active bridge",
+      "noInactive": "No inactive bridge",
+      "noDraft": "No draft bridge"
+    }
+  },
+  "tutorial": {
+    "bridge_explanation": {
+      "no_bridge": "You don't have any bridge yet",
+      "instruction_bridge": "The <b>bridge</b> is a connector that allows you to connect 2 applications together, on a specific type of transfer.",
+      "instruction_example": "Example: I want to connect Hubspot and Quickbooks to synchronize Hubspot contacts to Quickbooks.",
+      "instruction_create": "To create one it's simple, just click the <b>\"Create a bridge\"</b> button in the menu or the <b>button just below</b>."
+    },
+    "bridge_setup": {
+      "title": "Configure your bridge",
+      "step1": "1. Choose the source plugin",
+      "step2": "2. Choose the target plugin",
+      "step3": "3. What should we synchronize?",
+      "step4": "4. Start synchronisation!"
+    }
+  },
+  "plugin": {
+    "select": "Select a plugin",
+    "connect": "Connect",
+    "disconnect": "Disconnect",
+    "from": "Plugin 1",
+    "to": "Plugin 2"
+  },
+  "object": {
+    "quote": "Quote",
+    "contact": "Contact",
+    "product": "Product",
+    "none": "None",
+    "tuto": "First connect both plugins to select an object to sychronize.",
+    "changeToUpdate": "Change the object to update"
+  },
+  "company": {
+    "change": "Change company",
+    "settings": "Settings"
+  },
+  "page": {
+    "notExists": "This page does not exists",
+    "notAuthorized": "You cannot access to this page",
+    "home": "Home"
+  },
+  "payment": {
+    "title": "Payment",
+    "cancel": "Cancel",
+    "required": "Enhance your experience by purchasing credits for activate your bridges.",
+    "portal": "Access to my portal",
+    "success": "Thank you for your payment, you can now activate your bridges or invite new members.",
+    "contactOwner": "Please contact the company owner to process the purchase"
+  },
+  "settings": {
+    "accountConfiguration": "Account configuration",
+    "account": "Account",
+    "members": "Members",
+    "invite": "Invite",
+    "isOwner": "Owner ?",
+    "email": "Email",
+    "delete": "Delete"
+  }
+}
